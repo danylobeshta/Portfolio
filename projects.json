@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Formula Fun",
+    "genre": "Racing/Casual",
+    "platforms": "Web",
+    "type": "Commercial",
+    "year": "2023",
+    "description": "This project involved developing an racing game for web platforms.",
+    "media": [
+      {
+        "type": "image",
+        "src": "images/project-image1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "images/project-image2.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://youtu.be/fgb_cuX38vw?si=ALtqFK7UHmSWgd-v"
+      }
+    ],
+   
+    "store": {
+      "name": "Web",
+      "link": "https://funtico.com/games/13"
+    }
+  },
+  {
+    "name": "Project Title 2",
+    "genre": "Puzzle",
+    "platforms": "Mobile, PC",
+    "type": "Pet Project",
+    "year": "2022",
+    "description": "A puzzle game designed for mobile and PC platforms.",
+    "media": [
+      {
+        "type": "image",
+        "src": "images/project-image1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "images/project-image2.jpg"
+      }
+    ],
+    "github": "https://github.com/yourrepo2",
+    "store": {
+      "name": "itch.io",
+      "link": "https://itch.io/app/123456789"
+    }
+  }
+]
