@@ -27,6 +27,30 @@
     }
   },
   {
+    "name": "Drop Dudes",
+    "genre": "Action/Casual",
+    "platforms": "Web",
+    "type": "Commercial",
+    "year": "2024",
+    "description": "This project involved developing an action game for web platforms.",
+    "media": [
+      {
+        "type": "image",
+        "src": "images/dude1.png"
+      },
+      {
+        "type": "image",
+        "src": "images/dude2.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/61CULuW2914?si=jBLSWwDaa0TpTOVR"
+      }
+    ]
+   
+    
+  },
+  {
     "name": "Project Title 2",
     "genre": "Puzzle",
     "platforms": "Mobile, PC",
