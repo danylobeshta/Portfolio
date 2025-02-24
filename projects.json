@@ -51,6 +51,31 @@
     
   },
   {
+    "name": "2D Platformer",
+    "genre": "Platformer/Puzzle",
+    "platforms": "Web",
+    "type": "Pet",
+    "year": "2021",
+    "description": "This project involved developing an 2d Platformer game for web platforms.",
+    "media": [
+      {
+        "type": "image",
+        "src": "images/det1.png"
+      },
+      {
+        "type": "image",
+        "src": "images/det2.png"
+      }
+     
+    ],
+    "store": {
+      "name": "itch.io",
+      "link": "https://danylo-b.itch.io/cyber-detective"
+    }
+   
+    
+  },
+  {
     "name": "Project Title 2",
     "genre": "Puzzle",
     "platforms": "Mobile, PC",
