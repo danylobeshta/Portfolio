@@ -76,26 +76,25 @@
     
   },
   {
-    "name": "Project Title 2",
-    "genre": "Puzzle",
-    "platforms": "Mobile, PC",
+    "name": "GameJam project ",
+    "genre": "Arcade",
+    "platforms": "Web",
     "type": "Pet Project",
     "year": "2022",
-    "description": "A puzzle game designed for mobile and PC platforms.",
+    "description": "A arcade game designed for Christmas GameJam 2022.",
     "media": [
       {
         "type": "image",
-        "src": "images/project-image1.jpg"
+        "src": "images/deserve1.png"
       },
       {
         "type": "image",
-        "src": "images/project-image2.jpg"
+        "src": "images/deserve2.png"
       }
     ],
-    "github": "https://github.com/yourrepo2",
     "store": {
       "name": "itch.io",
-      "link": "https://itch.io/app/123456789"
+      "link": "https://pstasiv.itch.io/deserve-it"
     }
   }
 ]
