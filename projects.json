@@ -20,7 +20,7 @@
         "src": "https://www.youtube.com/embed/fgb_cuX38vw?si=FD53ZuE3irfLMDnj"
       }
     ],
-    
+   
     "store": {
       "name": "Web",
       "link": "https://funtico.com/games/13"
@@ -96,36 +96,5 @@
       "name": "itch.io",
       "link": "https://pstasiv.itch.io/deserve-it"
     }
-  },
-  {
-    "name": "VR project",
-    "genre": "Simulator",
-    "platforms": "Web/VR", 
-    "type": "Commercial",
-    "year": "2025",
-    "description": "A simulator for a VR headset/Web multiplayer interaction."
-    
-  },
-  {
-    "name": "EV2",
-    "genre": "Action/RPG",
-    "platforms": "PC",
-    "type": "Commercial",
-    "year": "2023",
-    "description": "A action/rpg multiplayer game developed on UE5 for PC platforms.",
-    "media": [
-      {
-        "type": "image",
-        "src": "images/ev2_1.png"
-      },
-      {
-        "type": "image",
-        "src": "images/ev2_2.png"
-      },
-      {
-        "type": "video",
-        "src": "https://www.youtube.com/embed/wmkFzxShvzo?si=xw2bU54jzySjAY5w"
-      }
-    ]  
   }
 ]
